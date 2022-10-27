@@ -1,0 +1,2 @@
+# nextwind
+Next js + Tailwind
